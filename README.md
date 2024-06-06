@@ -19,7 +19,7 @@ The aim of this project is to perform a comprehensive analysis of gold prices, i
 
 ## Data Sources
 - **Gold Prices**: Historical gold prices sourced from [yahoo finance](https://finance.yahoo.com/quote/GC%3DF/history/).
-- **USD Index**: Historical USD Index values sourced from [yahoo finance]((https://finance.yahoo.com/quote/DX-Y.NYB/history/)).
+- **USD Index**: Historical USD Index values sourced from [yahoo finance](https://finance.yahoo.com/quote/DX-Y.NYB/history/).
 
 ## Data Preprocessing
 The data preprocessing involved:
