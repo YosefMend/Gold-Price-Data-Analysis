@@ -18,11 +18,12 @@ This project analyzes the historical prices of gold from 2000 to 2023, examines 
 The aim of this project is to perform a comprehensive analysis of gold prices, identify seasonal trends and understand the correlation between gold prices and the USD Index.
 
 ## Data Sources
-- **Gold Prices**: Historical gold prices sourced from [source](https://finance.yahoo.com/quote/GC%3DF/history/).
-- **USD Index**: Historical USD Index values sourced from [source]([url](https://finance.yahoo.com/quote/DX-Y.NYB/history/)).
+- **Gold Prices**: Historical gold prices sourced from [yahoo finance](https://finance.yahoo.com/quote/GC%3DF/history/).
+- **USD Index**: Historical USD Index values sourced from [yahoo finance]((https://finance.yahoo.com/quote/DX-Y.NYB/history/)).
 
 ## Data Preprocessing
 The data preprocessing involved:
+- Using yfinance API to load data sets.
 - Converting date columns to datetime format.
 - Handling missing values with forward filling.
 - Aggregating data by month and year.
