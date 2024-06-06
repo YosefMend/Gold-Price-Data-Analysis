@@ -65,6 +65,3 @@ The project requires the following Python libraries:
 - numpy
 - matplotlib
 - seaborn
-- statsmodels
-- prophet
-- scikit-learn
